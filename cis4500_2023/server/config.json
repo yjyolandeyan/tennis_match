@@ -1,0 +1,9 @@
+{
+  "rds_host": "databasetennis.cfrcvhmfkby8.us-east-1.rds.amazonaws.com",
+  "rds_port": "1521",
+  "rds_user": "cis450project",
+  "rds_password": "tennisqueries",
+  "rds_db": "TENNIS",
+  "server_host": "localhost",
+  "server_port": "8080"
+}
