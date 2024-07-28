@@ -1,6 +1,3 @@
-# cis4500_2023
-Private Repo for Fall 2023 CIS 4500/5500 Final Project
-
 Our project seeks to build a website where a user can explore different tennis players’ statistics, player details, etc. 
 through a different player card for each athlete. We will have one page containing all the information 
 of the players, and another page that enables users to “mock” a game with the two players of 
